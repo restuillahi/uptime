@@ -4,36 +4,40 @@
     "url": "$DNS_PRIMARY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-primary",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 208,
     "timeDay": 208,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 1
+    }
   },
   {
     "name": "Website",
     "url": "$WEBSITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 2586,
     "timeDay": 2586,
     "timeWeek": 2586,
     "timeMonth": 2586,
     "timeYear": 2586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "Cloud Storage",
