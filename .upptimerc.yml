@@ -6,8 +6,8 @@ sites:
     url: $DNS_PRIMARY
     port: 53
     check: "tcp-ping"
-  - name: Homepage
-    url: $HOMEPAGE_URL
+  - name: Website
+    url: $WEBSITE_URL
 #  - name: ISP 1
 #    url: $ISP_1
 #    port: 80
