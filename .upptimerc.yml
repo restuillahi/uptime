@@ -7,19 +7,19 @@ sites:
     port: 53
     check: "tcp-ping"
   - name: Homepage
-    url: https://www.bps.go.id
-  - name: ISP 1
-    url: $ISP_1
-    port: 80
-    check: "tcp-ping"
-  - name: ISP 2
-    url: $ISP_2
-    port: 80
-    check: "tcp-ping"
-  - name: ISP 3
-    url: $ISP_3
-    port: 80
-    check: "tcp-ping"
+    url: $HOMEPAGE_URL
+#  - name: ISP 1
+#    url: $ISP_1
+#    port: 80
+#    check: "tcp-ping"
+#  - name: ISP 2
+#    url: $ISP_2
+#    port: 80
+#    check: "tcp-ping"
+#  - name: ISP 3
+#    url: $ISP_3
+#    port: 80
+#    check: "tcp-ping"
   - name: Cloud Storage
     url: $CLOUD_STORAGE_URL
   - name: VPN
