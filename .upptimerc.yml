@@ -1,6 +1,5 @@
-# Change these first
-owner: restuillahi # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: restuillahi
+repo: uptime
 
 sites:
   - name: Homepage
@@ -17,7 +16,7 @@ sites:
     url: $VPN_GATEWAY_SECONDARY
     port: $VPN_PORT
     check: "tcp-ping"
-
+    
 status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
