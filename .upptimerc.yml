@@ -6,13 +6,19 @@ sites:
     url: $DNS_PRIMARY
     port: 53
     check: "tcp-ping"
-  - name: Homepage Primary
-    url: $HOMEPAGE_PRIMARY
-    port: 443
+  - name: Homepage
+    url: $HOMEPAGE_URL
+  - name: ISP 1
+    url: $ISP_1
+    port: 80
     check: "tcp-ping"
-  - name: Homepage Secondary
-    url: $HOMEPAGE_SECONDARY
-    port: 443
+  - name: ISP 2
+    url: $ISP_2
+    port: 80
+    check: "tcp-ping"
+  - name: ISP 3
+    url: $ISP_3
+    port: 80
     check: "tcp-ping"
   - name: Cloud Storage
     url: $CLOUD_STORAGE_URL
