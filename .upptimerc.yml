@@ -2,8 +2,18 @@ owner: restuillahi
 repo: uptime
 
 sites:
-  - name: Homepage
-    url: $HOMEPAGE_URL
+  - name: DNS Primary
+    url: $DNS_PRIMARY
+    port: 53
+    check: "tcp-ping"
+  - name: Homepage Primary
+    url: $HOMEPAGE_PRIMARY
+    port: 443
+    check: "tcp-ping"
+  - name: Homepage Secondary
+    url: $HOMEPAGE_SECONDARY
+    port: 443
+    check: "tcp-ping"
   - name: Cloud Storage
     url: $CLOUD_STORAGE_URL
   - name: VPN
