@@ -1,7 +1,7 @@
 url: $VPN_GATEWAY_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-26T21:24:34.347Z
+status: up
+code: 200
+responseTime: 1263
+lastUpdated: 2025-02-26T21:35:52.173Z
 startTime: 2024-07-03T07:13:27.930Z
 generator: Upptime <https://github.com/upptime/upptime>
