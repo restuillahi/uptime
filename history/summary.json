@@ -36,7 +36,7 @@
     "uptime": "95.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.04%",
+    "uptimeMonth": "42.99%",
     "uptimeYear": "95.05%",
     "time": 1094,
     "timeDay": 171,
@@ -44,7 +44,7 @@
     "timeMonth": 547,
     "timeYear": 1091,
     "dailyMinutesDown": {
-      "2025-07-23": 631,
+      "2025-07-23": 653,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
@@ -89,14 +89,14 @@
     "url": "$CLOUD_STORAGE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "76.40%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "76.58%",
     "uptimeWeek": "71.80%",
-    "uptimeMonth": "90.37%",
+    "uptimeMonth": "90.45%",
     "uptimeYear": "99.20%",
     "time": 2578,
-    "timeDay": 2301,
+    "timeDay": 2286,
     "timeWeek": 2479,
     "timeMonth": 3056,
     "timeYear": 2589,
@@ -112,7 +112,7 @@
       "2025-07-15": 235,
       "2025-07-14": 580,
       "2025-07-13": 269,
-      "2025-07-12": 183
+      "2025-07-12": 146
     }
   },
   {
