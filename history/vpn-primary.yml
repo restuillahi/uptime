@@ -1,7 +1,7 @@
 url: $VPN_GATEWAY_PRIMARY
 status: up
 code: 200
-responseTime: 224
-lastUpdated: 2026-01-02T23:11:36.053Z
+responseTime: 186
+lastUpdated: 2026-01-03T23:11:23.095Z
 startTime: 2024-07-03T07:13:29.429Z
 generator: Upptime <https://github.com/upptime/upptime>
