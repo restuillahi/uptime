@@ -1,7 +1,7 @@
 url: $VPN_GATEWAY_SECONDARY
 status: up
 code: 200
-responseTime: 193
-lastUpdated: 2026-01-28T23:17:46.233Z
+responseTime: 180
+lastUpdated: 2026-01-29T23:17:04.016Z
 startTime: 2024-07-03T07:13:30.682Z
 generator: Upptime <https://github.com/upptime/upptime>
