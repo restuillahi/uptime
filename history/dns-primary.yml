@@ -1,7 +1,7 @@
 url: $DNS_PRIMARY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-07T09:17:37.174Z
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2026-02-07T09:48:57.621Z
 startTime: 2024-07-03T07:58:18.638Z
 generator: Upptime <https://github.com/upptime/upptime>
